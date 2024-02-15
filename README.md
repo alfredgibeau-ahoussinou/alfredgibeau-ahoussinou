@@ -5,8 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-https://camo.githubusercontent.com/76993d3709b14e1e021bc97b3473311840223f7c558bff40d6c10bdc54f30513/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4b6972616e31363839266c6162656c3d50726f66696c65253230766965777326636f6c6f723d373730363737267374796c653d666f722d7468652d6261646765266c6f676f3d73746172
-<!---
+
 alfredgibeau-ahoussinou/alfredgibeau-ahoussinou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

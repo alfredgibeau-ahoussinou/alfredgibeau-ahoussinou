@@ -22,4 +22,4 @@ Je suis toujours ouvert aux discussions, aux collaborations et aux nouvelles opp
 
 Merci d'avoir pris le temps de parcourir mon profil GitHub. Si vous avez des questions ou si vous souhaitez en savoir plus sur l'un de mes projets, n'hésitez pas à me contacter. Au plaisir de discuter avec vous !
 
-![Nom de l'image](http://cwabs.tumblr.com/post/2676571432)
+![Nom de l'image](<div style="width:100%;height:0;padding-bottom:84%;position:relative;"><iframe src="https://giphy.com/embed/qKltgF7Aw515K" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/imadeit-qKltgF7Aw515K">via GIPHY</a></p>)

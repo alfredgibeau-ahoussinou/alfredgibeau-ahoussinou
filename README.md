@@ -22,5 +22,5 @@ Je suis toujours ouvert aux discussions, aux collaborations et aux nouvelles opp
 
 Merci d'avoir pris le temps de parcourir mon profil GitHub. Si vous avez des questions ou si vous souhaitez en savoir plus sur l'un de mes projets, n'hésitez pas à me contacter. Au plaisir de discuter avec vous !
 
-![Animation](https://example.com/your-gif.gif)
+![Animation](<div class="tenor-gif-embed" data-postid="3489699601209028212" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/thumbs-up-one-piece-group-gif-3489699601209028212">Thumbs Up One Piece GIF</a>from <a href="https://tenor.com/search/thumbs+up-gifs">Thumbs Up GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
 

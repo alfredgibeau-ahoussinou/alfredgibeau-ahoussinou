@@ -20,4 +20,4 @@ Je suis ouvert aux discussions, collaborations et nouvelles opportunités. N'hé
 ## Merci !
 
 Merci d'avoir pris le temps de parcourir mon profil GitHub. Si vous avez des questions ou souhaitez en savoir plus sur l'un de mes projets, je suis disponible pour discuter. Au plaisir d'échanger avec vous !
-(https://github-readme-stats.vercel.app/apialfredgibeau-ahoussinou=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)

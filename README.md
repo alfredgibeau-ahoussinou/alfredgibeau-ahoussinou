@@ -21,5 +21,6 @@ Je suis ouvert aux discussions, collaborations et nouvelles opportunités. N'hé
 
 Merci d'avoir pris le temps de parcourir mon profil GitHub. Si vous avez des questions ou souhaitez en savoir plus sur l'un de mes projets, je suis disponible pour discuter. Au plaisir d'échanger avec vous !
 
-![image](![image](https://github.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/assets/146840606/e57a271e-6e43-4d0e-8ba4-cd8dab5ea8a4))
+![image](https://github.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/assets/146840606/ebb08080-0d24-474d-8a11-dfadf7204625)
+
 

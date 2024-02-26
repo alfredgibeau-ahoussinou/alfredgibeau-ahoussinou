@@ -20,6 +20,14 @@ Je suis ouvert aux discussions, collaborations et nouvelles opportunités. N'hé
 ## Merci !
 
 Merci d'avoir pris le temps de parcourir mon profil GitHub. Si vous avez des questions ou souhaitez en savoir plus sur l'un de mes projets, je suis disponible pour discuter. Au plaisir d'échanger avec vous !
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alfredgibeau-ahoussinou&count_private=true&show_icons=true&theme=aura_dark">
+  p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfredgibeau-ahoussinou&show_icons=true&locale=en&layout=compact" alt="alfredgibeau-ahoussinou" /></
+  <br>
+  <img src="https://streak-stats.demolab.com?user=alfredgibeau-ahoussinou&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j">
+</div>
 
 ![image](https://github.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/assets/146840606/ebb08080-0d24-474d-8a11-dfadf7204625)
 

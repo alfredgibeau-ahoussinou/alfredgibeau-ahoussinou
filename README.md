@@ -32,4 +32,4 @@ Merci d'avoir pris le temps de parcourir mon profil GitHub. Si vous avez des que
 ![image](https://github.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/assets/146840606/ebb08080-0d24-474d-8a11-dfadf7204625)
 
 
-![image](https://github.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/assets/146840606/bbdd413f-051b-4fde-9371-98bc48f5607e)
+

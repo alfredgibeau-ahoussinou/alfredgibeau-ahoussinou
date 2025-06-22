@@ -89,6 +89,40 @@ Je suis **Alfred Gibeau Ahoussinou**, un développeur passionné par la technolo
   </table>
 </div>
 
+### 🔧 Développement Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>Node.js</strong></td>
+      <td>
+        <div style="width: 90%; background-color: #4F8CC9; height: 20px; border-radius: 10px;">
+          <div style="width: 80%; background-color: #339933; height: 20px; border-radius: 10px; text-align: center; color: white; font-weight: bold;">80%</div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Express</strong></td>
+      <td>
+        <div style="width: 90%; background-color: #4F8CC9; height: 20px; border-radius: 10px;">
+          <div style="width: 75%; background-color: #000000; height: 20px; border-radius: 10px; text-align: center; color: white; font-weight: bold;">75%</div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>MongoDB</strong></td>
+      <td>
+        <div style="width: 90%; background-color: #4F8CC9; height: 20px; border-radius: 10px;">
+          <div style="width: 70%; background-color: #47A248; height: 20px; border-radius: 10px; text-align: center; color: white; font-weight: bold;">70%</div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ### 🔧 Langages & Outils
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)

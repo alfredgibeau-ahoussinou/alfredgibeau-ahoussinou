@@ -168,6 +168,39 @@ Je suis **Alfred Gibeau Ahoussinou**, un développeur passionné par la technolo
 
 ---
 
+## 🏆 Badges et certifications
+
+### 💻 Compétences Frontend
+![React Expert](https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js Advanced](https://img.shields.io/badge/Next.js-Advanced-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript Intermediate](https://img.shields.io/badge/TypeScript-Intermediate-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS Expert](https://img.shields.io/badge/Tailwind_CSS-Expert-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5 Expert](https://img.shields.io/badge/HTML5-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3 Expert](https://img.shields.io/badge/CSS3-Expert-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📱 Compétences Mobile
+![React Native Intermediate](https://img.shields.io/badge/React_Native-Intermediate-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### 🔧 Compétences Backend
+![Node.js Intermediate](https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express Intermediate](https://img.shields.io/badge/Express-Intermediate-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB Intermediate](https://img.shields.io/badge/MongoDB-Intermediate-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Outils et Technologies
+![Python Intermediate](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git Expert](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Expert](https://img.shields.io/badge/GitHub-Expert-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel Advanced](https://img.shields.io/badge/Vercel-Advanced-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🎯 Niveau de compétence
+<div align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-En%20Formation-4F8CC9?style=for-the-badge&logo=developer&logoColor=white" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/React%20Developer-Confirmé-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Developer" />
+  <img src="https://img.shields.io/badge/Next.js%20Developer-Confirmé-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Developer" />
+</div>
+
+---
+
 ## 📫 Contactez-moi
 
 Je suis ouvert aux discussions, collaborations et nouvelles opportunités. N'hésitez pas à me contacter !

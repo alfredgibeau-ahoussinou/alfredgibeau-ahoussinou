@@ -192,10 +192,6 @@ Je suis ouvert aux discussions, collaborations et nouvelles opportunités. N'hé
 
 Merci d'avoir pris le temps de parcourir mon profil GitHub ! Si vous avez des questions ou souhaitez en savoir plus sur l'un de mes projets, je suis disponible pour discuter. Au plaisir d'échanger avec vous !
 
-<div align="center">
-  <img src="https://github.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/assets/146840606/ebb08080-0d24-474d-8a11-dfadf7204625" alt="Profile Banner" width="100%" />
-</div>
-
 ---
 
 <div align="center">

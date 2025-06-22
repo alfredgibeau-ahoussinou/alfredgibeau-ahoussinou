@@ -129,7 +129,7 @@ Je suis **Alfred Gibeau Ahoussinou**, un développeur passionné par la technolo
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfredgibeau-ahoussinou&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&card_width=500&bg_color=0D1117&title_color=4F8CC9&text_color=FFFFFF&icon_color=4F8CC9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfredgibeau-ahoussinou&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&card_width=500&bg_color=0D1117&title_color=4F8CC9&text_color=FFFFFF&icon_color=4F8CC9&rank_icon=github&show_rank=true&custom_title=Mes%20Statistiques%20GitHub" alt="GitHub Stats" />
 </div>
 
 ---

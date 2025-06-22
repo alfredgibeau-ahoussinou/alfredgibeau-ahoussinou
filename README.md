@@ -40,26 +40,7 @@ Je suis **Alfred Gibeau Ahoussinou**, un développeur passionné par la technolo
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <!-- Statistiques principales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=alfredgibeau-ahoussinou&count_private=true&show_icons=true&theme=aura_dark&hide_border=true&include_all_commits=true&card_width=400" alt="GitHub Stats" />
-  
-  <!-- Langages les plus utilisés -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfredgibeau-ahoussinou&show_icons=true&theme=aura_dark&hide_border=true&layout=compact&langs_count=8&card_width=400" alt="Top Languages" />
-  
-  <!-- Streak de contributions -->
-  <img src="https://streak-stats.demolab.com?user=alfredgibeau-ahoussinou&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=400" alt="GitHub Streak" />
-  
-  <!-- Graphique d'activité -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfredgibeau-ahoussinou&theme=aura&hide_border=true&area=true&area_color=4F8CC9&line=4F8CC9&point=4F8CC9&color=4F8CC9&bg_color=0D1117" alt="Contribution Graph" />
-  
-  <!-- Statistiques de profil -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfredgibeau-ahoussinou&theme=aura_dark&hide_border=true" alt="Profile Details" />
-  
-  <!-- Statistiques de repos -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfredgibeau-ahoussinou&theme=aura_dark&hide_border=true" alt="Repos per Language" />
-  
-  <!-- Statistiques de commits -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-activity?username=alfredgibeau-ahoussinou&theme=aura_dark&hide_border=true" alt="Commit Activity" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfredgibeau-ahoussinou&count_private=true&show_icons=true&theme=aura_dark&hide_border=true&include_all_commits=true&card_width=500" alt="GitHub Stats" />
 </div>
 
 ---

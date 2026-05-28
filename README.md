@@ -5,14 +5,14 @@
 
 <div align="center">
 
-<!-- Bannière signature animée (SVG custom) -->
-<img src="./assets/header.svg" width="100%" alt="Alfred Gibeau-Ahoussinou — Header animé"/>
+<!-- Banniere (PNG — compatible GitHub ; SVG locaux ne s'affichent pas) -->
+<img src="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/header.png" width="100%" alt="Alfred Gibeau-Ahoussinou"/>
 
 <br/>
 
 <!-- Texte machine à écrire — rôles rotatifs -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Je+construis+des+interfaces+qui+vivent.;J'orchestre+du+TypeScript+et+du+React.;Je+transforme+des+idées+en+produits.;Holberton+→+Fullstack+→+∞" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Je+construis+des+interfaces+qui+vivent.;J'orchestre+du+TypeScript+et+du+React.;Je+transforme+des+idees+en+produits.;Holberton+%E2%86%92+Fullstack" alt="Typing animation"/>
 </a>
 
 <br/><br/>
@@ -26,7 +26,7 @@
 
 </div>
 
-<img src="./assets/wave-divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/wave-divider.png" width="100%" alt=""/>
 
 <br/>
 
@@ -37,14 +37,14 @@
 
 ### 🖥️ Console Alfred
 
-<img src="./assets/terminal.svg" width="95%" alt="Terminal animé Alfred"/>
+<img src="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/terminal.png" width="95%" alt="Terminal Alfred"/>
 
 </td>
 <td width="50%" align="center">
 
 ### 🪐 Constellation Stack
 
-<img src="./assets/skills-orbit.svg" width="420" alt="Orbite animée des compétences"/>
+<img src="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/skills-orbit.png" width="420" alt="Constellation Stack"/>
 
 *Technologies en orbite — rotation perpétuelle*
 
@@ -52,7 +52,7 @@
 </tr>
 </table>
 
-<img src="./assets/wave-divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/wave-divider.png" width="100%" alt=""/>
 
 <br/>
 
@@ -64,14 +64,14 @@
 
 </div>
 
-<!-- Snake — généré par GitHub Action (branche output) -->
+<!-- Snake — jsDelivr pour affichage fiable du SVG -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou@output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou@output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou@output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
-<img src="./assets/wave-divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/wave-divider.png" width="100%" alt=""/>
 
 <br/>
 
@@ -151,7 +151,7 @@
 
 </details>
 
-<img src="./assets/wave-divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/wave-divider.png" width="100%" alt=""/>
 
 <br/>
 
@@ -172,7 +172,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=alfredgibeau-ahoussinou&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="95%" alt="Trophies"/>
 </p>
 
-<img src="./assets/wave-divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/wave-divider.png" width="100%" alt=""/>
 
 <br/>
 
@@ -195,7 +195,7 @@
 
 <br/><br/>
 
-<img src="./assets/footer-pulse.svg" width="85%" alt="Footer animé"/>
+<img src="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/footer-pulse.png" width="85%" alt="Footer"/>
 
 <br/>
 

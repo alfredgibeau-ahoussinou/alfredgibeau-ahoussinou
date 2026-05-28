@@ -9,13 +9,12 @@
     </linearGradient>
   </defs>
   <text x="400" y="45" text-anchor="middle" font-family="system-ui,sans-serif" font-size="18" font-weight="600" fill="url(#fp)">
-    Prêt à construire quelque chose d'extraordinaire ?
+    Pret a construire quelque chose d'extraordinaire ?
   </text>
   <text x="400" y="75" text-anchor="middle" font-family="monospace" font-size="12" fill="#64748b">
     <tspan>ping alfredgibeauahoussinou@gmail.com</tspan>
     <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
   </text>
-  <!-- Points signal -->
   <circle cx="320" cy="75" r="3" fill="#22c55e">
     <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite"/>
   </circle>

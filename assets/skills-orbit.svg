@@ -85,5 +85,5 @@
     </line>
   </g>
 
-  <text x="250" y="485" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">const skills = orbit();</text>
+  <text x="250" y="485" text-anchor="middle" font-family="monospace" font-size="10" fill="#475569">const skills = orbit(Infinity);</text>
 </svg>

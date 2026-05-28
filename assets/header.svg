@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e17">
+        <animate attributeName="stop-color" values="#0a0e17;#12082a;#0a0e17" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#1a1035">
+        <animate attributeName="stop-color" values="#1a1035;#0f2847;#1a1035" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0d1b2a">
+        <animate attributeName="stop-color" values="#0d1b2a;#1b263b;#0d1b2a" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5ff"/>
+      <stop offset="35%" stop-color="#a855f7"/>
+      <stop offset="70%" stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#c084fc"/>
+      <stop offset="100%" stop-color="#fb7185"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;200%;100%" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+
+  <!-- Grille animée -->
+  <g opacity="0.15" stroke="#22d3ee" stroke-width="0.5">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="40 40" dur="20s" repeatCount="indefinite"/>
+      <path d="M0 40 H1200 M0 80 H1200 M0 120 H1200 M0 160 H1200 M0 200 H1200 M0 240 H1200 M0 280 H1200 M0 320 H1200
+               M40 0 V320 M80 0 V320 M120 0 V320 M160 0 V320 M200 0 V320 M240 0 V320 M280 0 V320 M320 0 V320
+               M360 0 V320 M400 0 V320 M440 0 V320 M480 0 V320 M520 0 V320 M560 0 V320 M600 0 V320 M640 0 V320
+               M680 0 V320 M720 0 V320 M760 0 V320 M800 0 V320 M840 0 V320 M880 0 V320 M920 0 V320 M960 0 V320
+               M1000 0 V320 M1040 0 V320 M1080 0 V320 M1120 0 V320 M1160 0 V320"/>
+    </g>
+  </g>
+
+  <!-- Anneaux orbitaux -->
+  <g transform="translate(600,160)">
+    <circle r="130" fill="none" stroke="url(#neon)" stroke-width="1" opacity="0.3" stroke-dasharray="8 12">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="25s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="100" fill="none" stroke="#a855f7" stroke-width="0.8" opacity="0.4" stroke-dasharray="4 16">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="70" fill="none" stroke="#22d3ee" stroke-width="1.2" opacity="0.5">
+      <animate attributeName="r" values="68;72;68" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;0.7;0.3" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Particules flottantes -->
+  <g fill="#22d3ee" filter="url(#softGlow)">
+    <circle cx="120" cy="80" r="2"><animate attributeName="cy" values="80;60;80" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="280" cy="240" r="1.5"><animate attributeName="cx" values="280;300;280" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.3;0.9;0.3" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="950" cy="90" r="2.5"><animate attributeName="cy" values="90;110;90" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1050" cy="220" r="1.8"><animate attributeName="cx" values="1050;1020;1050" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="180" cy="200" r="1.2" fill="#f472b6"><animate attributeName="cy" values="200;170;200" dur="4.5s" repeatCount="indefinite"/></circle>
+    <circle cx="880" cy="260" r="2" fill="#a855f7"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="2.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Symboles code flottants -->
+  <g font-family="monospace" font-size="14" fill="#64748b" opacity="0.5">
+    <text x="90" y="140">&lt;/&gt;
+      <animate attributeName="y" values="140;125;140" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.6;0.2" dur="5s" repeatCount="indefinite"/>
+    </text>
+    <text x="1000" y="130">{ }
+      <animate attributeName="y" values="130;145;130" dur="4s" repeatCount="indefinite"/>
+    </text>
+    <text x="150" y="260">fn()
+      <animate attributeName="opacity" values="0.15;0.5;0.15" dur="3s" repeatCount="indefinite"/>
+    </text>
+    <text x="920" y="70">=&gt;
+      <animate attributeName="x" values="920;935;920" dur="6s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Nom principal -->
+  <text x="600" y="125" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="52" font-weight="800" fill="url(#nameGrad)" filter="url(#glow)">ALFRED</text>
+  <text x="600" y="175" text-anchor="middle" font-family="system-ui, sans-serif" font-size="22" font-weight="300" fill="#94a3b8" letter-spacing="12">GIBEAU  AHOUSSINOU</text>
+
+  <!-- Ligne scan -->
+  <rect x="200" y="195" width="800" height="2" fill="url(#neon)" opacity="0.6">
+    <animate attributeName="opacity" values="0.2;0.9;0.2" dur="2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Sous-titre pulse -->
+  <text x="600" y="230" text-anchor="middle" font-family="monospace" font-size="13" fill="#22d3ee" letter-spacing="3">
+    <tspan>// architecte d'expériences numériques</tspan>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Badge Holberton -->
+  <rect x="470" y="250" width="260" height="36" rx="18" fill="none" stroke="url(#neon)" stroke-width="1.5" opacity="0.8">
+    <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <text x="600" y="273" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#e2e8f0" font-weight="600">HOLBERTON SCHOOL PARIS · FULLSTACK</text>
+</svg>

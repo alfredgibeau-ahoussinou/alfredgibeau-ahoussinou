@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="800" height="100">
+  <defs>
+    <linearGradient id="fp" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#c084fc"/>
+      <stop offset="100%" stop-color="#fb7185"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;200%;100%" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <text x="400" y="45" text-anchor="middle" font-family="system-ui,sans-serif" font-size="18" font-weight="600" fill="url(#fp)">
+    Prêt à construire quelque chose d'extraordinaire ?
+  </text>
+  <text x="400" y="75" text-anchor="middle" font-family="monospace" font-size="12" fill="#64748b">
+    <tspan>ping alfredgibeauahoussinou@gmail.com</tspan>
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+  </text>
+  <!-- Points signal -->
+  <circle cx="320" cy="75" r="3" fill="#22c55e">
+    <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="335" cy="75" r="3" fill="#22c55e">
+    <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="0.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="350" cy="75" r="3" fill="#22c55e">
+    <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="0.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>

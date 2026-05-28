@@ -17,7 +17,6 @@ jobs:
       - uses: actions/checkout@v4
 
       - uses: Platane/snk@v3
-        id: snake
         with:
           github_user_name: alfredgibeau-ahoussinou
           outputs: |
@@ -31,3 +30,20 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update snake PNG on main
+        run: |
+          npm install @resvg/resvg-js --no-save
+          node -e "
+          const { Resvg } = require('@resvg/resvg-js');
+          const fs = require('fs');
+          const svg = fs.readFileSync('dist/github-contribution-grid-snake-dark.svg','utf8');
+          fs.writeFileSync('snake.png', new Resvg(svg).render().asPng());
+          "
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p assets/png
+          mv snake.png assets/png/snake.png
+          git add assets/png/snake.png
+          git diff --staged --quiet || git commit -m "chore: update snake contribution PNG"
+          git push

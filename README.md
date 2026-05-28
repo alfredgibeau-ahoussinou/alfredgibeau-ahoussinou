@@ -1,204 +1,118 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     ALFRED · GITHUB PROFILE — Neo-Cosmos Edition
-     Animations SVG custom · Terminal live · Orbite skills
-     ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- Banniere (PNG — compatible GitHub ; SVG locaux ne s'affichent pas) -->
-<img src="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/header.png" width="100%" alt="Alfred Gibeau-Ahoussinou"/>
+```text
+    ___   ____________  _______  ______   __
+   /   | / ____/ ____/ / ____/ |/ / __ \ / /
+  / /| |/ / __/ __/   / __/  |   / / / // / 
+ / ___ / /_/ / /___  / /___ /   / /_/ // /___
+/_/  |_\____/_____/ /_____//_/|_/_____//_____/
+         G I B E A U  ·  A H O U S S I N O U
+```
+
+[![Banniere](https://capsule-render.vercel.app/api?type=waving&color=0:030712,30:1e1b4b,70:0c4a6e,100:06b6d4&height=160&section=header&text=DEV%20VAULT&fontSize=46&fontColor=e2e8f0&animation=twinkling)](https://github.com/alfredgibeau-ahoussinou)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=06B6D4&center=true&width=750&lines=Je+code+des+interfaces+qui+frappent.;Je+ship+du+TypeScript+et+du+React.;Holberton+Paris+%E2%86%92+Fullstack+builder.;Ouvert+aux+collabs+et+defis+tech.)](https://github.com/alfredgibeau-ahoussinou)
+
+![](https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/header.png)
 
 <br/>
 
-<!-- Texte machine à écrire — rôles rotatifs -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Je+construis+des+interfaces+qui+vivent.;J'orchestre+du+TypeScript+et+du+React.;Je+transforme+des+idees+en+produits.;Holberton+%E2%86%92+Fullstack" alt="Typing animation"/>
-</a>
-
-<br/><br/>
-
-<!-- Compteur de vues + statut live -->
-<img src="https://komarev.com/ghpvc/?username=alfredgibeau-ahoussinou&label=VISITEURS&color=0ea5e9&style=for-the-badge" alt="Profile views"/>
-&nbsp;
-<img src="https://img.shields.io/badge/STATUT-BUILDING-22c55e?style=for-the-badge&labelColor=0f172a&logo=statuspage&logoColor=white" alt="Building"/>
-&nbsp;
-<img src="https://img.shields.io/badge/FOCUS-Fullstack+Dev-a855f7?style=for-the-badge&labelColor=0f172a" alt="Focus"/>
+![](https://komarev.com/ghpvc/?username=alfredgibeau-ahoussinou&label=visiteurs&color=06b6d4&style=flat-square)
+![](https://img.shields.io/github/followers/alfredgibeau-ahoussinou?style=flat-square&logo=github&label=suivis&color=8b5cf6)
+![](https://img.shields.io/badge/statut-en%20build-22c55e?style=flat-square)
+![](https://img.shields.io/badge/focus-fullstack-06b6d4?style=flat-square)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/wave-divider.png" width="100%" alt=""/>
+---
 
-<br/>
+## `> system.boot`
 
-<!-- ═══ TERMINAL + ORBITE (layout unique côte à côte) ═══ -->
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 🖥️ Console Alfred
+**Console**
 
-<img src="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/terminal.png" width="95%" alt="Terminal Alfred"/>
+![](https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/terminal.png)
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 🪐 Constellation Stack
+**Stack live**
 
-<img src="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/skills-orbit.png" width="420" alt="Constellation Stack"/>
-
-*Technologies en orbite — rotation perpétuelle*
+![](https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/skills-orbit.png)
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/wave-divider.png" width="100%" alt=""/>
+---
 
-<br/>
-
-<div align="center">
-
-## ⚡ Le Serpent des Commits
-
-*Chaque contribution nourrit la bête — regarde-la grandir*
-
-</div>
-
-<!-- Snake — branche output (URL absolue raw.githubusercontent.com) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
-
-<img src="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/wave-divider.png" width="100%" alt=""/>
-
-<br/>
+## `> contribution.snake`
 
 <div align="center">
 
-## 📡 Radar d'Activité
+![](https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/snake.png)
 
 </div>
 
-<!-- Graphique activité style néon custom -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfredgibeau-ahoussinou&bg_color=0a0e17&color=22d3ee&line=a855f7&point=f472b6&area=true&area_color=22d3ee&area_opacity=0.15&hide_border=true&custom_title=Commits%20en%20orbite&height=280" alt="Activity graph"/>
-</p>
+---
 
-<br/>
+## `> activity.radar`
 
 <div align="center">
 
-## 🗂️ Galerie Projets — Mode Bento
+![](https://github-readme-activity-graph.vercel.app/graph?username=alfredgibeau-ahoussinou&bg_color=030712&color=06b6d4&line=8b5cf6&point=ec4899&area=true&area_color=06b6d4&area_opacity=0.12&hide_border=true&custom_title=Flux%20de%20commits&height=260)
+
+![](https://streak-stats.demolab.com/?user=alfredgibeau-ahoussinou&theme=dark&hide_border=true&background=030712&ring=06b6d4&fire=8b5cf6&currStreakLabel=ec4899&dates=64748b)
 
 </div>
 
-<table>
-<tr>
-<td align="center" width="33%">
+---
 
-[![PRODAY](https://github-readme-stats.vercel.app/api/pin/?username=alfredgibeau-ahoussinou&repo=PRODAY&bg_color=0a0e17&title_color=22d3ee&icon_color=a855f7&text_color=94a3b8&border_color=1e293b&border_radius=12&hide_border=false)](https://github.com/alfredgibeau-ahoussinou/PRODAY)
+## `> projects.load`
 
-</td>
-<td align="center" width="33%">
+<div align="center">
 
-[![LAME](https://github-readme-stats.vercel.app/api/pin/?username=alfredgibeau-ahoussinou&repo=LAME-Barber-Concierge&bg_color=0a0e17&title_color=c084fc&icon_color=f472b6&text_color=94a3b8&border_color=1e293b&border_radius=12&hide_border=false)](https://github.com/alfredgibeau-ahoussinou/LAME-Barber-Concierge)
+| | | |
+|:---:|:---:|:---:|
+| [![PRODAY](https://img.shields.io/badge/PRODAY-app%20du%20jour-06b6d4?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/alfredgibeau-ahoussinou/PRODAY) | [![LAME](https://img.shields.io/badge/LAME-Barber%20Concierge-8b5cf6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/alfredgibeau-ahoussinou/LAME-Barber-Concierge) | [![Synapse](https://img.shields.io/badge/Synapse-AI%20resume-f59e0b?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/alfredgibeau-ahoussinou/Synapse-AI---G-n-rateur-de-R-sum-s-de-Contenu-Long) |
+| [![StoneFaste](https://img.shields.io/badge/StoneFaste-web%20TS-22c55e?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/alfredgibeau-ahoussinou/StoneFaste) | [![Portfolio](https://img.shields.io/badge/Portfolio-v4-ec4899?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/alfredgibeau-ahoussinou/portfolio4) | [![Login UI](https://img.shields.io/badge/Login-UI%20animee-38bdf8?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/alfredgibeau-ahoussinou/porfoliio-tests) |
 
-</td>
-<td align="center" width="33%">
-
-[![Synapse](https://github-readme-stats.vercel.app/api/pin/?username=alfredgibeau-ahoussinou&repo=Synapse-AI---G-n-rateur-de-R-sum-s-de-Contenu-Long&bg_color=0a0e17&title_color=fbbf24&icon_color=22d3ee&text_color=94a3b8&border_color=1e293b&border_radius=12&hide_border=false)](https://github.com/alfredgibeau-ahoussinou/Synapse-AI---G-n-rateur-de-R-sum-s-de-Contenu-Long)
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-[![StoneFaste](https://github-readme-stats.vercel.app/api/pin/?username=alfredgibeau-ahoussinou&repo=StoneFaste&bg_color=0a0e17&title_color=4ade80&icon_color=22d3ee&text_color=94a3b8&border_color=1e293b&border_radius=12&hide_border=false)](https://github.com/alfredgibeau-ahoussinou/StoneFaste)
-
-</td>
-<td align="center">
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=alfredgibeau-ahoussinou&repo=portfolio4&bg_color=0a0e17&title_color=fb7185&icon_color=a855f7&text_color=94a3b8&border_color=1e293b&border_radius=12&hide_border=false)](https://github.com/alfredgibeau-ahoussinou/portfolio4)
-
-</td>
-<td align="center">
-
-[![Login](https://github-readme-stats.vercel.app/api/pin/?username=alfredgibeau-ahoussinou&repo=porfoliio-tests&bg_color=0a0e17&title_color=38bdf8&icon_color=f472b6&text_color=94a3b8&border_color=1e293b&border_radius=12&hide_border=false)](https://github.com/alfredgibeau-ahoussinou/porfoliio-tests)
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
 <details>
-<summary><b>🎓 Holberton School — déplier le portail</b></summary>
+<summary><code>> holberton.tracks</code></summary>
 <br/>
 
-<div align="center">
-
-| Track | Repo |
-|:-----:|:-----|
-| 🎨 Front-end | [`holbertonschool-web_front_end`](https://github.com/alfredgibeau-ahoussinou/holbertonschool-web_front_end) |
-| ⚙️ Back-end | [`holbertonschool-web_back_end`](https://github.com/alfredgibeau-ahoussinou/holbertonschool-web_back_end) |
-| ⚛️ React | [`holbertonschool-web_react`](https://github.com/alfredgibeau-ahoussinou/holbertonschool-web_react) |
-| 🎯 Dart | [`holbertonschool-web_dart`](https://github.com/alfredgibeau-ahoussinou/holbertonschool-web_dart) |
-| 💼 Interview | [`holbertonschool-interview`](https://github.com/alfredgibeau-ahoussinou/holbertonschool-interview) |
-
-</div>
+| Module | Lien |
+|--------|------|
+| Front-end | [holbertonschool-web_front_end](https://github.com/alfredgibeau-ahoussinou/holbertonschool-web_front_end) |
+| Back-end | [holbertonschool-web_back_end](https://github.com/alfredgibeau-ahoussinou/holbertonschool-web_back_end) |
+| React | [holbertonschool-web_react](https://github.com/alfredgibeau-ahoussinou/holbertonschool-web_react) |
+| Dart | [holbertonschool-web_dart](https://github.com/alfredgibeau-ahoussinou/holbertonschool-web_dart) |
+| Interview | [holbertonschool-interview](https://github.com/alfredgibeau-ahoussinou/holbertonschool-interview) |
 
 </details>
 
-<img src="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/wave-divider.png" width="100%" alt=""/>
+---
 
-<br/>
-
-<div align="center">
-
-## 📊 Métriques — Thème Neo-Cosmos
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfredgibeau-ahoussinou&show_icons=true&theme=radical&hide_border=true&bg_color=0a0e17&title_color=22d3ee&icon_color=a855f7&text_color=cbd5e1&border_radius=10" height="165" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfredgibeau-ahoussinou&theme=radical&hide_border=true&background=0a0e17&ring=22d3ee&fire=a855f7&currStreakLabel=f472b6&border_radius=10" height="165" alt="Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredgibeau-ahoussinou&layout=compact&theme=radical&hide_border=true&bg_color=0a0e17&title_color=c084fc&text_color=94a3b8&border_radius=10" height="165" alt="Languages"/>
-</p>
-
-<!-- Trophées animés -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alfredgibeau-ahoussinou&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="95%" alt="Trophies"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/wave-divider.png" width="100%" alt=""/>
-
-<br/>
+## `> connect.open`
 
 <div align="center">
 
-## 🔗 Portail de Contact
-
-<a href="https://www.linkedin.com/in/alfred-gibeau-ahoussinou-810a25264">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn"/>
-</a>
-<a href="mailto:alfredgibeauahoussinou@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email"/>
-</a>
-<a href="https://medium.com/@alfredgibeauahoussinou">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0f172a" alt="Medium"/>
-</a>
-<a href="https://github.com/alfredgibeau-ahoussinou">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="GitHub"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alfred--gibeau-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfred-gibeau-ahoussinou-810a25264)
+[![Email](https://img.shields.io/badge/Email-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfredgibeauahoussinou@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alfredgibeauahoussinou)
+[![GitHub](https://img.shields.io/badge/GitHub-alfredgibeau--ahoussinou-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfredgibeau-ahoussinou)
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/footer-pulse.png" width="85%" alt="Footer"/>
+**Développeur fullstack · Holberton School Paris · Paris**
 
-<br/>
-
-<sub>✦ README Neo-Cosmos · SVG animés 100% custom · Fait avec passion à Paris ✦</sub>
+*Si mon profil t'inspire un projet — écris-moi.*
 
 </div>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 140" width="900" height="140">
+  <rect width="900" height="140" rx="12" fill="#0f172a" stroke="#334155"/>
+  <text x="28" y="32" font-family="monospace" font-size="12" fill="#06b6d4">arsenal.tech</text>
+  <g font-family="system-ui,sans-serif" font-size="11" font-weight="600">
+    <rect x="28" y="50" width="100" height="28" rx="8" fill="#1e293b" stroke="#e34f26"/><text x="78" y="68" text-anchor="middle" fill="#fca5a5">HTML5</text>
+    <rect x="138" y="50" width="90" height="28" rx="8" fill="#1e293b" stroke="#1572b6"/><text x="183" y="68" text-anchor="middle" fill="#93c5fd">CSS3</text>
+    <rect x="238" y="50" width="80" height="28" rx="8" fill="#1e293b" stroke="#facc15"/><text x="278" y="68" text-anchor="middle" fill="#fde047">JS</text>
+    <rect x="328" y="50" width="110" height="28" rx="8" fill="#1e293b" stroke="#3178c6"/><text x="383" y="68" text-anchor="middle" fill="#93c5fd">TypeScript</text>
+    <rect x="448" y="50" width="90" height="28" rx="8" fill="#1e293b" stroke="#61dafb"/><text x="493" y="68" text-anchor="middle" fill="#67e8f9">React</text>
+    <rect x="548" y="50" width="90" height="28" rx="8" fill="#1e293b" stroke="#22c55e"/><text x="593" y="68" text-anchor="middle" fill="#86efac">Node</text>
+    <rect x="648" y="50" width="90" height="28" rx="8" fill="#1e293b" stroke="#3b82f6"/><text x="693" y="68" text-anchor="middle" fill="#93c5fd">Python</text>
+    <rect x="748" y="50" width="70" height="28" rx="8" fill="#1e293b" stroke="#a855f7"/><text x="783" y="68" text-anchor="middle" fill="#d8b4fe">C</text>
+    <rect x="28" y="92" width="80" height="28" rx="8" fill="#1e293b" stroke="#0175c2"/><text x="68" y="110" text-anchor="middle" fill="#7dd3fc">Dart</text>
+    <rect x="118" y="92" width="80" height="28" rx="8" fill="#1e293b" stroke="#f97316"/><text x="158" y="110" text-anchor="middle" fill="#fdba74">Git</text>
+    <rect x="208" y="92" width="100" height="28" rx="8" fill="#1e293b" stroke="#ec4899"/><text x="258" y="110" text-anchor="middle" fill="#f9a8d4">REST API</text>
+    <rect x="318" y="92" width="110" height="28" rx="8" fill="#1e293b" stroke="#8b5cf6"/><text x="373" y="110" text-anchor="middle" fill="#c4b5fd">Figma</text>
+    <rect x="438" y="92" width="120" height="28" rx="8" fill="#1e293b" stroke="#06b6d4"/><text x="498" y="110" text-anchor="middle" fill="#67e8f9">VS Code</text>
+    <rect x="568" y="92" width="130" height="28" rx="8" fill="#1e293b" stroke="#64748b"/><text x="633" y="110" text-anchor="middle" fill="#cbd5e1">Linux / CLI</text>
+    <rect x="708" y="92" width="110" height="28" rx="8" fill="#1e293b" stroke="#f59e0b"/><text x="763" y="110" text-anchor="middle" fill="#fcd34d">IA tools</text>
+  </g>
+</svg>

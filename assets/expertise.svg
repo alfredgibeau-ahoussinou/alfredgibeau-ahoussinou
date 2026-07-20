@@ -1,20 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240">
-  <rect width="1200" height="240" rx="2" fill="#0c0c0e" stroke="#1f1f23" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280">
+  <rect width="1200" height="280" rx="2" fill="#0c0c0e" stroke="#1f1f23" stroke-width="1"/>
   <text x="48" y="42" font-family="Georgia, serif" font-size="14" fill="#c4a574" letter-spacing="4">SAVOIR-FAIRE</text>
-  <g font-family="system-ui,sans-serif" font-size="12" fill="#a1a1aa">
-    <text x="48" y="85" fill="#f5f0e8" font-size="11" letter-spacing="2">FRONTEND</text>
-    <text x="48" y="108">HTML ∑ CSS ∑ JavaScript ∑ TypeScript ∑ React</text>
-    <text x="48" y="140" fill="#f5f0e8" font-size="11" letter-spacing="2">BACKEND</text>
-    <text x="48" y="163">Node.js ∑ Python ∑ C ∑ Dart ∑ REST APIs</text>
-    <text x="48" y="195" fill="#f5f0e8" font-size="11" letter-spacing="2">OUTILS</text>
-    <text x="48" y="218">Git ∑ GitHub ∑ Figma ∑ VS Code ∑ Linux</text>
+  <g font-family="system-ui,sans-serif" font-size="11">
+    <text x="48" y="78" fill="#f5f0e8" letter-spacing="2">INTERFACES</text>
+    <text x="48" y="98" fill="#a1a1aa">React ù Next.js ù TypeScript ù Tailwind ù Framer Motion ù PWA</text>
+    <text x="48" y="132" fill="#f5f0e8" letter-spacing="2">ARCHITECTURE</text>
+    <text x="48" y="152" fill="#a1a1aa">Node.js ù Python ù PostgreSQL ù Socket.io ù JWT</text>
+    <text x="48" y="186" fill="#f5f0e8" letter-spacing="2">INTELLIGENCE</text>
+    <text x="48" y="206" fill="#a1a1aa">OpenAI ù Stripe ù Supabase ù Brevo ù NextAuth</text>
+    <text x="48" y="240" fill="#f5f0e8" letter-spacing="2">MOBILE &amp; DEPLOIEMENT</text>
+    <text x="48" y="260" fill="#a1a1aa">React Native ù Dart ù Netlify ù Vercel ù Zustand</text>
   </g>
-  <rect x="720" y="50" width="430" height="160" rx="4" fill="#141418" stroke="#2a2a2e"/>
-  <text x="935" y="85" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#c4a574">PARCOURS</text>
+  <rect x="620" y="50" width="530" height="200" rx="4" fill="#141418" stroke="#2a2a2e"/>
+  <text x="885" y="82" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#c4a574">PARCOURS</text>
   <g font-family="monospace" font-size="11" fill="#71717a">
-    <text x="750" y="115" fill="#52525b">2023</text><text x="810" y="115" fill="#a1a1aa">Premiers pas</text>
-    <text x="750" y="140" fill="#52525b">2024</text><text x="810" y="140" fill="#a1a1aa">Holberton ∑ C / Python</text>
-    <text x="750" y="165" fill="#52525b">2025</text><text x="810" y="165" fill="#a1a1aa">Web ∑ React ∑ APIs</text>
-    <text x="750" y="190" fill="#c4a574">2026</text><text x="810" y="190" fill="#f5f0e8">Fullstack ∑ TypeScript</text>
+    <text x="650" y="115" fill="#52525b">2023</text><text x="710" y="115" fill="#a1a1aa">Premiers pas</text>
+    <text x="650" y="142" fill="#52525b">2024</text><text x="710" y="142" fill="#a1a1aa">Holberton ù C / Python</text>
+    <text x="650" y="169" fill="#52525b">2025</text><text x="710" y="169" fill="#a1a1aa">Web ù React ù APIs ù IA</text>
+    <text x="650" y="196" fill="#c4a574">2026</text><text x="710" y="196" fill="#f5f0e8">Full-Stack ù produits d'exception</text>
   </g>
 </svg>

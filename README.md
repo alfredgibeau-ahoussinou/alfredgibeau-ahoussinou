@@ -1,69 +1,100 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:111111&height=200&section=header&text=Alfred%20Gibeau-Ahoussinou&fontSize=38&fontColor=fafafa&animation=fadeIn)](https://github.com/alfredgibeau-ahoussinou)
+![](https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/hero-atelier.png)
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=4000&pause=2000&color=B8956A&center=true&width=620&lines=D%C3%A9veloppeur+fullstack;Holberton+School%2C+Paris;Concevoir.+Construire.+Livrer.)](https://github.com/alfredgibeau-ahoussinou)
+<br/>
 
-**Développeur fullstack** · Paris · Holberton School
+[![Typing](https://readme-typing-svg.demolab.com?font=Georgia&size=23&duration=4200&pause=2200&color=C4A574&center=true&width=640&lines=Concevoir+des+exp%C3%A9riences+digitales.;Construire+avec+pr%C3%A9cision.;Livrer+avec+exigence.)](https://github.com/alfredgibeau-ahoussinou)
+
+<br/>
+
+*Développeur fullstack · Holberton School Paris · France*
+
+<br/>
+
+![](https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/ornament.png)
 
 </div>
 
----
+## Portrait
 
-## À propos
+<div align="center">
 
-Étudiant à **Holberton School Paris**, je conçois des applications web et des interfaces soignées — de l'idée au produit fini. Mon approche : rigueur technique, clarté visuelle, livraison régulière.
+> *« Chaque interface est une première impression.*
+> *Chaque ligne de code, une intention. »*
 
----
+</div>
 
-## Compétences
+<br/>
 
-**Frontend**  
-![HTML](https://img.shields.io/badge/HTML-52525b?style=flat-square&labelColor=18181b)
-![CSS](https://img.shields.io/badge/CSS-52525b?style=flat-square&labelColor=18181b)
-![JavaScript](https://img.shields.io/badge/JavaScript-52525b?style=flat-square&labelColor=18181b)
-![TypeScript](https://img.shields.io/badge/TypeScript-52525b?style=flat-square&labelColor=18181b)
-![React](https://img.shields.io/badge/React-52525b?style=flat-square&labelColor=18181b)
+Étudiant à **Holberton School Paris**, je conçois des applications web élégantes et performantes — du prototype au déploiement. Mon fil conducteur : **clarté**, **rigueur** et **sens du détail**.
 
-**Backend & langages**  
-![Node.js](https://img.shields.io/badge/Node.js-52525b?style=flat-square&labelColor=18181b)
-![Python](https://img.shields.io/badge/Python-52525b?style=flat-square&labelColor=18181b)
-![C](https://img.shields.io/badge/C-52525b?style=flat-square&labelColor=18181b)
-![Dart](https://img.shields.io/badge/Dart-52525b?style=flat-square&labelColor=18181b)
+<br/>
 
-**Outils**  
-![Git](https://img.shields.io/badge/Git-52525b?style=flat-square&labelColor=18181b)
-![Figma](https://img.shields.io/badge/Figma-52525b?style=flat-square&labelColor=18181b)
-![VS Code](https://img.shields.io/badge/VS%20Code-52525b?style=flat-square&labelColor=18181b)
+| | |
+|:---|:---|
+| **Vision** | Des produits utiles, soignés, mémorables |
+| **Pratique** | TypeScript, React, APIs, design centré utilisateur |
+| **Ouverture** | Collaborations, stages, projets ambitieux |
 
----
+<div align="center">
 
-## Parcours
+![](https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/ornament.png)
 
-| Année | Étape |
-|:-----:|:------|
-| 2023 | Premiers pas en développement |
-| 2024 | Holberton — C, Python, algorithmique |
-| 2025 | Web — front-end, back-end, React |
-| 2026 | Fullstack — TypeScript, produits, collaborations |
+</div>
 
----
+## Savoir-faire
 
-## Réalisations
+<div align="center">
+
+![](https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/expertise.png)
+
+</div>
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/ornament.png)
+
+</div>
+
+## Créations
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+[![PRODAY](https://img.shields.io/badge/PRODAY-Application-c4a574?style=for-the-badge&logo=typescript&logoColor=0c0c0e&labelColor=141418)](https://github.com/alfredgibeau-ahoussinou/PRODAY)
+
+[![LAME](https://img.shields.io/badge/LAME-Barber%20Concierge-c4a574?style=for-the-badge&logo=typescript&logoColor=0c0c0e&labelColor=141418)](https://github.com/alfredgibeau-ahoussinou/LAME-Barber-Concierge)
+
+[![Synapse](https://img.shields.io/badge/Synapse-AI%20R%C3%A9sum%C3%A9-c4a574?style=for-the-badge&logo=openai&logoColor=0c0c0e&labelColor=141418)](https://github.com/alfredgibeau-ahoussinou/Synapse-AI---G-n-rateur-de-R-sum-s-de-Contenu-Long)
+
+</td>
+<td align="center">
+
+[![StoneFaste](https://img.shields.io/badge/StoneFaste-Web%20TS-c4a574?style=for-the-badge&logo=node.js&logoColor=0c0c0e&labelColor=141418)](https://github.com/alfredgibeau-ahoussinou/StoneFaste)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Site%20web-c4a574?style=for-the-badge&logo=html5&logoColor=0c0c0e&labelColor=141418)](https://github.com/alfredgibeau-ahoussinou/portfolio4)
+
+[![Login](https://img.shields.io/badge/Login-UI%20anim%C3%A9e-c4a574?style=for-the-badge&logo=css3&logoColor=0c0c0e&labelColor=141418)](https://github.com/alfredgibeau-ahoussinou/porfoliio-tests)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 | Projet | Description |
 |:-------|:------------|
-| [PRODAY](https://github.com/alfredgibeau-ahoussinou/PRODAY) | Application TypeScript |
-| [LAME Barber](https://github.com/alfredgibeau-ahoussinou/LAME-Barber-Concierge) | Expérience conciergerie barbier |
-| [Synapse AI](https://github.com/alfredgibeau-ahoussinou/Synapse-AI---G-n-rateur-de-R-sum-s-de-Contenu-Long) | Résumé de contenu long |
-| [StoneFaste](https://github.com/alfredgibeau-ahoussinou/StoneFaste) | Application web TypeScript |
-| [Portfolio](https://github.com/alfredgibeau-ahoussinou/portfolio4) | Site portfolio personnel |
-| [Login UI](https://github.com/alfredgibeau-ahoussinou/porfoliio-tests) | Interface de connexion animée |
-| [EvaSport](https://github.com/alfredgibeau-ahoussinou/EvaSporthtml) | Site sport HTML |
-| [SocialPlanr](https://github.com/alfredgibeau-ahoussinou/SocialPlanr-Gestionnaire-d-v-nements-collaboratif-intelligent) | Gestion d'événements TypeScript |
+| [EvaSport](https://github.com/alfredgibeau-ahoussinou/EvaSporthtml) | Site sport — HTML |
+| [SocialPlanr](https://github.com/alfredgibeau-ahoussinou/SocialPlanr-Gestionnaire-d-v-nements-collaboratif-intelligent) | Événements collaboratifs — TypeScript |
 
 <details>
-<summary>Formation Holberton School</summary>
+<summary><b>Formation · Holberton School</b></summary>
 <br/>
 
 | Module | Repository |
@@ -76,31 +107,47 @@
 
 </details>
 
----
+<div align="center">
 
-## Activité
+![](https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/ornament.png)
+
+</div>
+
+## Présence
 
 <div align="center">
 
 ![](https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/output/github-contribution-grid-snake-dark.svg)
 
-![](https://streak-stats.demolab.com/?user=alfredgibeau-ahoussinou&theme=dark&hide_border=true&background=0a0a0a&ring=b8956a&fire=52525b&currStreakLabel=fafafa&dates=71717a)
+<br/>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=alfredgibeau-ahoussinou&bg_color=0c0c0e&color=c4a574&line=52525b&point=f5f0e8&area=true&area_color=c4a574&area_opacity=0.06&hide_border=true&custom_title=Activit%C3%A9&height=200)
+
+![](https://streak-stats.demolab.com/?user=alfredgibeau-ahoussinou&theme=dark&hide_border=true&background=0c0c0e&ring=c4a574&fire=52525b&currStreakLabel=f5f0e8&dates=52525b)
 
 </div>
 
----
+<div align="center">
+
+![](https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/ornament.png)
+
+</div>
 
 ## Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-52525b?style=flat-square&logo=linkedin&logoColor=fafafa&labelColor=18181b)](https://www.linkedin.com/in/alfred-gibeau-ahoussinou-810a25264)
-[![Email](https://img.shields.io/badge/Email-52525b?style=flat-square&logo=gmail&logoColor=fafafa&labelColor=18181b)](mailto:alfredgibeauahoussinou@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-52525b?style=flat-square&logo=medium&logoColor=fafafa&labelColor=18181b)](https://medium.com/@alfredgibeauahoussinou)
-[![GitHub](https://img.shields.io/badge/GitHub-52525b?style=flat-square&logo=github&logoColor=fafafa&labelColor=18181b)](https://github.com/alfredgibeau-ahoussinou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-c4a574?style=for-the-badge&logo=linkedin&logoColor=0c0c0e&labelColor=141418)](https://www.linkedin.com/in/alfred-gibeau-ahoussinou-810a25264)
+[![Email](https://img.shields.io/badge/Email-%C3%89crire-c4a574?style=for-the-badge&logo=gmail&logoColor=0c0c0e&labelColor=141418)](mailto:alfredgibeauahoussinou@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-Articles-c4a574?style=for-the-badge&logo=medium&logoColor=0c0c0e&labelColor=141418)](https://medium.com/@alfredgibeauahoussinou)
+[![GitHub](https://img.shields.io/badge/GitHub-Repos-c4a574?style=for-the-badge&logo=github&logoColor=0c0c0e&labelColor=141418)](https://github.com/alfredgibeau-ahoussinou)
 
-<br/>
+<br/><br/>
 
-*Collaboration, stage ou projet — écrivez-moi.*
+*Un projet, un stage, une collaboration — la conversation commence ici.*
+
+<br/><br/>
+
+![](https://raw.githubusercontent.com/alfredgibeau-ahoussinou/alfredgibeau-ahoussinou/main/assets/png/footer-atelier.png)
 
 </div>
